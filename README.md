@@ -19,6 +19,6 @@ I'm a Computer Science student at Florida State University with a strong interes
 
 📫 Let’s connect:
 - LinkedIn: www.linkedin.com/in/bridget-gizzi
-- Portfolio: https://bridgetgizzi.framer.website/
+- Portfolio: bridgetgizzi.design
 <!--
 
